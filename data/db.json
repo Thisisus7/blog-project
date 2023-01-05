@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Audio signal processing",
+      "body": "Audio signal processing is a subfield of signal processing that is concerned with the electronic manipulation of audio signals. Audio signals are electronic representations of sound waves—longitudinal waves which travel through air, consisting of compressions and rarefactions. The energy contained in audio signals is typically measured in decibels. As audio signals may be represented in either digital or analog format, processing may occur in either domain. Analog processors operate directly on the electrical signal, while digital processors operate mathematically on its digital representation.",
+      "author": "rick",
+      "id": 1
+    },
+    {
+      "title": "Dynamic programming",
+      "body": "In both contexts it refers to simplifying a complicated problem by breaking it down into simpler sub-problems in a recursive manner. While some decision problems cannot be taken apart this way, decisions that span several points in time do often break apart recursively. Likewise, in computer science, if a problem can be solved optimally by breaking it into sub-problems and then recursively finding the optimal solutions to the sub-problems, then it is said to have optimal substructure.",
+      "author": "Morty",
+      "id": 2
+    },
+    {
+      "title": "How to Choose a Badminton Racket",
+      "body": "Choosing the correct or best badminton racquet for yourself can be daunting at first. With such a wide range of rackets from a variety of brands to choose from, it can be difficult to know where to start. At TennisNuts, we believe this decision can be narrowed down to two key questions; what type of balance the racket has, and how flexible the shaft is. Beyond this, many of the brands have rackets that cater to each combination of these factors, and you can then filter through them based on price and other factors.",
+      "author": "Sarah",
+      "id": 3
+    }
+  ]
+}
